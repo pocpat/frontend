@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Insurance API - React App will be here :)
         </a>
       </header>
     </div>
